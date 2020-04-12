@@ -36,7 +36,7 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 **Cevap**: Evet.
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
-|Kuvvet (N) | Uzanım (m)|
+| Uzama (m) | Kuvvet (N)|
 |-----------|-----------|
 |   0,03    |   1,59    |
 |   0,033   |   3,49    |
